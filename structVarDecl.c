@@ -11,4 +11,4 @@ struct date
       In the above, an instance of the structure, called tomorrow, 
       is declared simultaneously with the structure. 
       Tomorrow is a variable of type date.
-						                */
+                            */
