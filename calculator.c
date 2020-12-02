@@ -10,7 +10,7 @@
 
 
 
-/* Protorypes */
+/* Prototypes */
 void menu(void);
 void application(void);
 void calculate(int choice);
